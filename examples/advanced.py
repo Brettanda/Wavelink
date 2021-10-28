@@ -32,13 +32,13 @@ import asyncio
 import async_timeout
 import copy
 import datetime
-import discord
+import nextcord as discord
 import math
 import random
 import re
 import typing
 import wavelink
-from discord.ext import commands, menus
+from nextcord.ext import commands, menus
 
 # URL matching REGEX...
 URL_REG = re.compile(r'https?://(?:www\.)?.+')

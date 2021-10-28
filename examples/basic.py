@@ -1,6 +1,6 @@
-import discord
+import nextcord as discord
 import wavelink
-from discord.ext import commands
+from nextcord.ext import commands
 
 
 class Bot(commands.Bot):

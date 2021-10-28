@@ -23,8 +23,8 @@ SOFTWARE.
 import logging
 import time
 import re
-from discord.ext import commands
-from discord.gateway import DiscordWebSocket
+from nextcord.ext import commands
+from nextcord.gateway import DiscordWebSocket
 from typing import Optional, Union
 
 from .errors import *
