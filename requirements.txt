@@ -1,2 +1,2 @@
 aiohttp>=3.6.0,<3.8.0
-nextcord==2.0.0a3
+nextcord @ git+https://github.com/nextcord/nextcord@master
