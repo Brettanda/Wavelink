@@ -1,2 +1,2 @@
 aiohttp>=3.6.0,<3.8.0
-nextcord @ git+https://github.com/nextcord/nextcord@master
+py-cord @ git+https://github.com/Pycord-Development/pycord

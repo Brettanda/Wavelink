@@ -23,7 +23,7 @@ SOFTWARE.
 import aiohttp
 import asyncio
 import logging
-from nextcord.ext import commands
+from discordext import commands
 from functools import partial
 from json import dumps
 from typing import Optional, Union
